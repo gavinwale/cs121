@@ -1,2 +1,3 @@
 # cs121
-Java projects from CS I
+## A collection of Java projects from my first Java class, CS I
+
